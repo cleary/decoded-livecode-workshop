@@ -9,7 +9,7 @@ DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmas
 
 ### Audio (minitidal)
 
- - [1-1](./minitidal/1-1.md)
+ - [1-1. First Creations](https://decoded.grbt.com.au/#/minitidal/1-1.md) (~0.5h)
  - [1-2](./minitidal/1-2.md)
  - [1-3](./minitidal/1-3.md)
  - [1-4](./minitidal/1-4.md)
