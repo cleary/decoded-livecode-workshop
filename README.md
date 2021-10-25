@@ -1,14 +1,18 @@
-# decoded-livecode-workshop
-DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. Audio (minitidal), and Visual (punctual)
+# DECODED
+
+DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
+
+ - Audio livecoding in Minitidal ([Tidalcycles](https://tidalcycles.org/))
+ - Visual livecoding in [Punctual](https://github.com/dktr0/Punctual)
 
 ## Worksheets
 
 ### Audio (minitidal)
 
- - [1-1](https://github.com/cleary/decoded-livecode-workshop/blob/main/minitidal/1-1.md)
- - [1-2](https://github.com/cleary/decoded-livecode-workshop/blob/main/minitidal/1-2.md)
- - [1-3](https://github.com/cleary/decoded-livecode-workshop/blob/main/minitidal/1-3.md)
- - [1-4](https://github.com/cleary/decoded-livecode-workshop/blob/main/minitidal/1-4.md)
+ - [1-1](./minitidal/1-1.md)
+ - [1-2](./minitidal/1-2.md)
+ - [1-3](./minitidal/1-3.md)
+ - [1-4](./minitidal/1-4.md)
 
 ### Visual (punctual)
 
