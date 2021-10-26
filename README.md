@@ -16,10 +16,10 @@ DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmas
 
 ### Visual (punctual)
 
- - [1-1](https://github.com/cleary/decoded-livecode-workshop/blob/main/punctual/1-1.md)
- - [1-2](https://github.com/cleary/decoded-livecode-workshop/blob/main/punctual/1-2.md)
- - [1-3](https://github.com/cleary/decoded-livecode-workshop/blob/main/punctual/1-3.md)
- - [1-4](https://github.com/cleary/decoded-livecode-workshop/blob/main/punctual/1-4.md)
+ - [1-1. First Creations](punctual/1-1.md) (~1h)
+ - [1-2. Moving Things Around](punctual/1-2.md) (~1h)
+ - [1-3. Different Output Targets](punctual/1-3.md) (~1h)
+ - [1-4. Jigging With the Numbers](punctual/1-4.md) (~1h)
 
 # License
 
