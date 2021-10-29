@@ -120,4 +120,4 @@ sound "bd@1 sd@1"
 ```
 
 ---
-Next: [1-2. Mini-notation Sequencing and Patterning Concepts](minitial/1-2.md)
+Next: [1-2. Mini-notation Sequencing and Patterning Concepts](minitidal_1-2.md)
