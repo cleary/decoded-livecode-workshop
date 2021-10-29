@@ -7,6 +7,10 @@ DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmas
 
 ## Worksheets
 
+### Estuary Introduction
+
+ - [WIP](/estuary/README.md)
+
 ### Minitidal (Tidalcycles)
 
  - [1-1. First Creations](minitidal_1-1.md) (~0.5h)
