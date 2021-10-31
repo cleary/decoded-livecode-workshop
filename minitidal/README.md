@@ -2,7 +2,7 @@
 
 DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
 
-## Minitidal (Tidalcycles)
+## Livecoded Visuals with Minitidal (Tidal Cycles)
 
 ### Worksheets
 

@@ -2,7 +2,7 @@
 
 DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
 
-## Punctual
+## Livecoded Visuals with Punctual
 
 ### Worksheets
 
