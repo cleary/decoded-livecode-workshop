@@ -2,8 +2,8 @@
 
 DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
 
- - Audio livecoding in Minitidal (based on [Tidalcycles](https://tidalcycles.org/))
- - Visual livecoding in [Punctual](https://github.com/dktr0/Punctual)
+ - Audio livecoding with Minitidal (based on [Tidalcycles](https://tidalcycles.org/))
+ - Visual livecoding with [Punctual](https://github.com/dktr0/Punctual)
 
 ## Worksheets
 
@@ -11,7 +11,7 @@ DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmas
 
  - [WIP](/estuary/README.md)
 
-### Minitidal (Tidalcycles)
+### Audio (Minitidal/Tidalcycles)
 
  - [1-1. First Creations](/minitidal/1-1.md) (~0.5h)
  - [1-2. Mini-notation Sequencing and Patterning Concepts](/minitidal/1-2.md) (~1h)
