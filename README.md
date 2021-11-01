@@ -1,6 +1,6 @@
 !['DECODED Banner](XXXhttps://photos.smugmug.com/photos/i-xF4p5Nz/0/5e711c84/X2/i-xF4p5Nz-X2.png)
 
-DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
+[DECODED](https://decoded.grbt.com.au) - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
 
  - Audio livecoding with Minitidal (based on [Tidalcycles](https://tidalcycles.org/))
  - Visual livecoding with [Punctual](https://github.com/dktr0/Punctual)
