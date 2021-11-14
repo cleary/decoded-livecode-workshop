@@ -1,4 +1,4 @@
-!['DECODED Banner](images/flor_banner.png)
+!['DECODED Banner](images/antonio_3_banner.png)
 
 [DECODED](https://decoded.grbt.com.au) - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
 
@@ -27,7 +27,4 @@
  - [1-3. Different Output Targets](/punctual/1-3.md) (~1h)
  - [1-4. Jigging With the Numbers](/punctual/1-4.md) (~1h)
 
-## Copyright
-All content Copyright (C) 2021 Bernard Gray, except:
-
- - Banner Image by Nahuel Zeta ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+**[Copyright](COPYRIGHT.md)**
