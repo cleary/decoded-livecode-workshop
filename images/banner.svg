@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg850"
+   width="7835.6479"
+   height="2346.5042"
+   viewBox="0 0 7835.648 2346.5041"
+   sodipodi:docname="banner.SVG.svg"
+   inkscape:export-filename="/home/bernie/source/decoded-livecode-workshop/images/antonio_3_banner.png"
+   inkscape:export-xdpi="4.3994217"
+   inkscape:export-ydpi="4.3994217"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata856">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3386"
+     inkscape:window-height="1411"
+     id="namedview852"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     borderlayer="true"
+     inkscape:zoom="0.12979144"
+     inkscape:cx="3596.8791"
+     inkscape:cy="1136.3064"
+     inkscape:window-x="54"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg850" />
+  <image
+     sodipodi:absref="/home/bernie/source/decoded-livecode-workshop/images/antonio_3.png"
+     xlink:href="antonio_3.png"
+     style="stroke-width:0.17717832"
+     width="7865.522"
+     height="5226.8247"
+     preserveAspectRatio="none"
+     id="image957"
+     x="-20.790009"
+     y="-2375.7192" />
+  <rect
+     transform="rotate(-37.934426)"
+     ry="2.8571501"
+     y="-2024.1995"
+     x="-3147.3533"
+     height="3998.7229"
+     width="3998.7229"
+     id="rect988"
+     style="opacity:0.611;fill:#ff00ff;fill-opacity:1;stroke:none" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:849.46661377px;line-height:1.25;font-family:Atari;-inkscape-font-specification:'Atari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke:none;stroke-width:1"
+     x="-5305.207"
+     y="-2241.679"
+     id="text968"><tspan
+       sodipodi:role="line"
+       id="tspan966"
+       x="-5305.207"
+       y="-2241.679"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:849.46661377px;font-family:Atari;-inkscape-font-specification:'Atari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1">DECODED</tspan></text>
+  <text
+     id="text972"
+     y="-243.02744"
+     x="-6291.4062"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:993.42242432px;line-height:1.25;font-family:'Binary CHR BRK';-inkscape-font-specification:'Binary CHR BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke:none;stroke-width:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:993.42242432px;font-family:'Binary CHR BRK';-inkscape-font-specification:'Binary CHR BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+       y="-243.02744"
+       x="-6291.4062"
+       id="tspan970"
+       sodipodi:role="line">DECODED --</tspan></text>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#text972"
+     id="use974"
+     transform="translate(6484.2166,847.16168)"
+     width="100%"
+     height="100%"
+     style="fill:#00ff00" />
+  <use
+     style="fill:#ffffff"
+     height="100%"
+     width="100%"
+     transform="translate(6534.2166,895.16168)"
+     id="use976"
+     xlink:href="#text972"
+     y="0"
+     x="0" />
+  <rect
+     style="opacity:0.611;fill:#00ff00;fill-opacity:1;stroke:none"
+     id="rect986"
+     width="3998.7229"
+     height="3998.7229"
+     x="5431.335"
+     y="-6119.6475"
+     ry="2.8571501"
+     transform="rotate(25.319687)" />
+</svg>
