@@ -15,10 +15,10 @@
    width="7835.6479"
    height="2346.5042"
    viewBox="0 0 7835.648 2346.5041"
-   sodipodi:docname="banner.SVG.svg"
+   sodipodi:docname="banner.svg"
    inkscape:export-filename="/home/bernie/source/decoded-livecode-workshop/images/antonio_3_banner.png"
-   inkscape:export-xdpi="4.3994217"
-   inkscape:export-ydpi="4.3994217"
+   inkscape:export-xdpi="4.2274575"
+   inkscape:export-ydpi="4.2274575"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata856">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      fit-margin-bottom="0"
      borderlayer="true"
      inkscape:zoom="0.12979144"
-     inkscape:cx="3596.8791"
+     inkscape:cx="2190.7771"
      inkscape:cy="1136.3064"
      inkscape:window-x="54"
      inkscape:window-y="0"
@@ -64,13 +64,13 @@
   <image
      sodipodi:absref="/home/bernie/source/decoded-livecode-workshop/images/antonio_3.png"
      xlink:href="antonio_3.png"
-     style="stroke-width:0.17717832"
-     width="7865.522"
-     height="5226.8247"
-     preserveAspectRatio="none"
-     id="image957"
+     y="-2375.7192"
      x="-20.790009"
-     y="-2375.7192" />
+     id="image957"
+     preserveAspectRatio="none"
+     height="5226.8247"
+     width="7865.522"
+     style="stroke-width:0.17717832" />
   <rect
      transform="rotate(-37.934426)"
      ry="2.8571501"
@@ -129,4 +129,15 @@
      y="-6119.6475"
      ry="2.8571501"
      transform="rotate(25.319687)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:488.26412964px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988"
+     x="-7057.0845"
+     y="1328.7023"
+     id="text862"><tspan
+       sodipodi:role="line"
+       id="tspan860"
+       x="-7057.0845"
+       y="1328.7023"
+       style="stroke-width:0.99999988">export page at 800px Wide</tspan></text>
 </svg>
