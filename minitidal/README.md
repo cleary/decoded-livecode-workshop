@@ -24,6 +24,4 @@ While not feature complete with Tidal Cycles, Minitidal's strengths are twofold:
 
 The Worksheets provided here are designed specifically for use with Estuary, but should work equally well for Tidal Cycles (proper) with minimal adjustments.
 
-# License
-
-This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+**[Copyright](/COPYRIGHT.md)**
