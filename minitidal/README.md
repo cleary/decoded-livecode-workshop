@@ -1,4 +1,4 @@
-!['DECODED Banner](XXXhttps://photos.smugmug.com/photos/i-xF4p5Nz/0/5e711c84/X2/i-xF4p5Nz-X2.png)
+!['DECODED Banner](/images/antonio_3_banner.png)
 
 DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
 
