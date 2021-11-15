@@ -6,7 +6,7 @@ DECODED - an artistic livecoding workshop on the [estuary](https://estuary.mcmas
 
 ### Worksheets
 
- - [1-1. First Creations](/punctual/1-1.md) (~1h)
+ - [1-1. First Shapes](/punctual/1-1.md) (~1h)
  - [1-2. Moving Things Around](/punctual/1-2.md) (~1h)
  - [1-3. Different Output Targets](/punctual/1-3.md) (~1h)
  - [1-4. Jigging With the Numbers](/punctual/1-4.md) (~1h)
@@ -19,6 +19,4 @@ Punctual runs in a web browser, and is portable to any system with a browser tha
 
 The Worksheets provided cover the visual capabilities of Punctual only, specifically inside [Estuary](https://estuary.mcmaster.ca). The content should work equally well for [standalone Punctual](https://dktr0.github.io/Punctual/) with minimal adjustments
 
-# License
-
-This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+**[Copyright](COPYRIGHT.md)**
