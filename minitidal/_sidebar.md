@@ -1,6 +1,8 @@
-<!-- docs/_sidebar.md -->
+<!-- minitidal/_sidebar.md -->
 
-- [Home](/)
+- [DECODED --](/)
+
+- [Estuary Introduction](/estuary/)
 
 - [Audio Livecoding (minitidal)](/minitidal)
 
@@ -10,4 +12,4 @@
    - [1-3. Pitches, Filters and Re-use](1-3.md)
    - [1-4. Pattern Mod Func and Randomness](1-4.md)
 
-- [Audio Livecoding (punctual)](/punctual/)
+- [Visual Livecoding (punctual)](/punctual/)

@@ -1,5 +1,9 @@
-<!-- docs/_sidebar.md -->
+<!-- estuary/_sidebar.md -->
 
-* [Home](/)
-* [Audio Livecoding (minitidal)](/minitidal)
-* [Audio Livecoding (punctual)](/punctual)
+- [DECODED --](/)
+
+- [Estuary Introduction](/estuary/)
+
+- [Audio Livecoding (minitidal)](/minitidal/)
+
+- [Visual Livecoding (punctual)](/punctual/)

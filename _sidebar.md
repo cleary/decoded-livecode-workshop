@@ -1,6 +1,8 @@
-<!-- docs/_sidebar.md -->
+<!-- _sidebar.md -->
 
-- [Home](/)
+- [DECODED --](/)
+
+- [Estuary Introduction](/estuary/)
 
 - [Audio Livecoding (minitidal)](/minitidal/)
 
