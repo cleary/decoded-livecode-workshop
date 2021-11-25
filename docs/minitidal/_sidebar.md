@@ -1,15 +1,7 @@
-<!-- minitidal/_sidebar.md -->
+<!-- _sidebar.md -->
+**[Audio Livecoding (minitidal)](/minitidal/)**
 
-- [DECODED --](/)
-
-- [Estuary Introduction](/estuary/)
-
-- [Audio Livecoding (minitidal)](/minitidal)
-
-   - [About](/minitidal/)
-   - [1-1. First Sounds](1-1.md)
-   - [1-2. Mini-notation Sequencing and Patterning Concepts](1-2.md)
-   - [1-3. Pitches, Filters and Re-use](1-3.md)
-   - [1-4. Pattern Mod Func and Randomness](1-4.md)
-
-- [Visual Livecoding (punctual)](/punctual/)
+  - [1-1. First Sounds](/minitidal/1-1.md)
+  - [1-2. Mini-notation Sequencing and Patterning Concepts](/minitidal/1-2.md)
+  - [1-3. Pitches, Filters and Re-use](/minitidal/1-3.md)
+  - [1-4. Pattern Mod Func and Randomness](/minitidal/1-4.md)
