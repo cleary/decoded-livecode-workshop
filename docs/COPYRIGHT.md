@@ -1,4 +1,4 @@
-images/antonio\*.jpg:
+assets/images/antonio\*.jpg:
 
   Author: [Emily Jones](https://www.instagram.com/echojulietdj/)
 
