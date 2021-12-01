@@ -1,9 +1,16 @@
 # 💻
 
 <h1 id="cover-heading">
-  Docsify Open MultiCourse Hub
+  DECODED --
 </h1>
+<h2 id="cover-heading">
+  An Artistic Livecoding Workshop
+</h2>
 
-[CPT363-1](cpt363-1/home.md)
-[CPT363-2](cpt363-2/home.md)
-[CPT363-3](cpt363-3/home.md)
+[Estuary](estuary/README.md)
+[Audio (minitidal)](minitidal/README.md)
+[Visual (punctual)](punctual/README.md)
+
+<!-- background image -->
+![](assets/images/antonio_3_background.png)
+

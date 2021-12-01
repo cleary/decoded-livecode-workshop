@@ -16,9 +16,9 @@
    height="1080"
    viewBox="0 0 1920 1080"
    sodipodi:docname="background.svg"
-   inkscape:export-filename="/home/bernie/source/decoded-livecode-workshop/images/antonio_3_banner.png"
-   inkscape:export-xdpi="4.2274575"
-   inkscape:export-ydpi="4.2274575"
+   inkscape:export-filename="/home/bernie/source/decoded-livecode-workshop/docs/assets/images/antonio_3_background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata856">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,8 +54,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      borderlayer="true"
-     inkscape:zoom="0.60208333"
-     inkscape:cx="1027.0051"
+     inkscape:zoom="0.39907407"
+     inkscape:cx="1235.9198"
      inkscape:cy="540"
      inkscape:window-x="48"
      inkscape:window-y="0"
@@ -64,18 +64,18 @@
   <image
      sodipodi:absref="/home/bernie/source/decoded-livecode-workshop/docs/assets/images/antonio_3.png"
      xlink:href="antonio_3.png"
-     style="stroke-width:0.17717832"
-     width="1941.9221"
-     height="1290.453"
-     preserveAspectRatio="none"
-     id="image957"
+     y="-170.8569"
      x="-9.5694685"
-     y="-170.8569" />
+     id="image957"
+     preserveAspectRatio="none"
+     height="1290.453"
+     width="1941.9221"
+     style="stroke-width:0.17717832" />
   <rect
      transform="rotate(-37.934426)"
      ry="2.8571501"
-     y="-4106.9409"
-     x="-4110.7412"
+     y="-3221.4319"
+     x="-3552.417"
      height="3998.7229"
      width="3998.7229"
      id="rect988"
@@ -125,8 +125,8 @@
      id="rect986"
      width="3998.7229"
      height="3998.7229"
-     x="4889.6909"
-     y="-7264.4858"
+     x="1547.1171"
+     y="-4121.7539"
      ry="2.8571501"
      transform="rotate(25.319687)" />
   <text
