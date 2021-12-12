@@ -235,8 +235,11 @@
   margin: 1em 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 .markdown-section h1 {
   line-height: 1.5rem;
+  font-family: 'VT323', monospace;
 }
 
 .markdown-section h2 {
