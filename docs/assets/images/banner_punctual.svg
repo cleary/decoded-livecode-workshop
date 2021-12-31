@@ -16,7 +16,7 @@
    height="2346.5042"
    viewBox="0 0 7835.648 2346.5041"
    sodipodi:docname="banner_punctual.svg"
-   inkscape:export-filename="/home/bernie/source/decoded-livecode-workshop/docs/assets/images/banner_minitidal.png"
+   inkscape:export-filename="/home/bernie/source/decoded-livecode-workshop/docs/assets/images/banner_punctual.png"
    inkscape:export-xdpi="4.2274575"
    inkscape:export-ydpi="4.2274575"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
@@ -477,7 +477,7 @@ SUVORK5CYII=
      transform="translate(6484.2166,847.16168)"
      width="100%"
      height="100%"
-     style="fill:#000000;fill-opacity:1" />
+     style="fill:#4d4d4d;fill-opacity:1" />
   <use
      style="fill:#ffffff;fill-opacity:1"
      height="100%"
