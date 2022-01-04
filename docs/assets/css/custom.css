@@ -22,3 +22,17 @@ body .markdown-section {
     text-decoration: underline;
 }
 */
+
+.cover h1 {
+        font-family: "Amiga Forever", monospace;
+        font-weight: 400;
+        font-size: 3.0em;
+        text-shadow: -6px -6px #fb962e;
+    }
+
+.sidebar h1 {
+        font-family: "Amiga Forever", monospace;
+        font-weight: 400;
+        font-size: 1.2em;
+        text-shadow: -2px -2px #fb962e;
+    }
