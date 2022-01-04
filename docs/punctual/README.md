@@ -1,4 +1,4 @@
-!['DECODED Banner](../images/antonio_3_banner.png)
+![DECODED Banner](images/banner_punctual.png)
 
 ## Livecoded Visuals with Punctual
 
