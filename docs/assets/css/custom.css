@@ -41,7 +41,7 @@ body .markdown-section {
         font-family: "Amiga Forever", monospace;
         font-weight: 400;
         font-size: 1.2em;
-        text-shadow: -2px -2px #fb962e;
+        text-decoration-color: #ffffff;
     }
 
 h2#cover-heading {
