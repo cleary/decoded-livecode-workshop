@@ -1,4 +1,4 @@
-!['DECODED Banner](../images/antonio_3_banner.png)
+![DECODED Banner](images/banner_estuary.png)
 
 ## About
 
