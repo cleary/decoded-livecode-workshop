@@ -31,4 +31,16 @@ Key features of Estuary include:
 
 ![Estuary Terminal](images/estuary_terminal.png)
 
+### Select a Livecoding Language
+
+![Estuary Language Selector](images/estuary_language.png)
+
+### Evaluate Code
+
+![Estuary Play Button](images/estuary_evaluate.png)
+
+### Change the Theme
+
+![Estuary Theme Selector](images/estuary_theme.png)
+
 **[Copyright](/COPYRIGHT.md)**
