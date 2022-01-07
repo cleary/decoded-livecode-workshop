@@ -33,14 +33,14 @@ Key features of Estuary include:
 
 ### Select a Livecoding Language
 
-![Estuary Language Selector](images/estuary_language.png)
+![Estuary Language Selector](images/estuary_cell_language_selector.png)
 
 ### Evaluate Code
 
-![Estuary Play Button](images/estuary_evaluate.png)
+![Estuary Play Button](images/estuary_cell_eval.png)
 
 ### Change the Theme
 
-![Estuary Theme Selector](images/estuary_theme.png)
+![Estuary Theme Selector](images/estuary_themes_selector.png)
 
 **[Copyright](/COPYRIGHT.md)**
