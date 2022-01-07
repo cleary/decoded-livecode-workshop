@@ -1,6 +1,6 @@
 ![DECODED Banner](images/banner_estuary.png)
 
-## About
+## Collaborative Livecoding Audio/Visuals in Estuary
 
 [Estuary](https://estuary.mcmaster.ca) is a platform for collaboration and learning through live coding. It enables you to create sound, music, and visuals in a web browser using a variety of **Live Coding** languages.
 
@@ -15,7 +15,8 @@ Key features of Estuary include:
 ## Requirements:
  - Chrome or Chromium browser
 
-## Support
+## Support/Resources
+ - [Command Quick Reference](/estuary/command-quick-reference.md)
  - [Discord](https://discord.gg/E9vuAUBAeW)
 
 

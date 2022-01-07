@@ -2,8 +2,6 @@
 
 ## Livecoded Audio with Minitidal (Tidalcycles)
 
-### About
-
 [Tidalcycles](https://tidalcycles.org/) allows you to make patterns with code. It includes language for describing flexible (e.g. polyphonic, polyrhythmic, generative) sequences of sounds, notes, and parameters.
 
 [Minitidal](https://github.com/dktr0/estuary) supports a wide subset of functions and features provided by Tidalcycles, specifically designed for use with the [estuary web client](https://estuary.mcmaster.ca).

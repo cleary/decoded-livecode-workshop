@@ -2,8 +2,6 @@
 
 ## Livecoded Visuals with Punctual
 
-### About
-
 [Punctual](https://github.com/dktr0/Punctual) is a language for live coding audio and visuals. It allows you to build and change networks of signal processors (oscillators, filters, etc) on the fly.
 
 Punctual runs in a web browser, and is portable to any system with a browser that supports the Web Audio API (for sound) and WebGL (for video). While it can be used in a standalone way, it is also bundled inside the Estuary platform for collaborative live coding.

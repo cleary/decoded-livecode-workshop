@@ -2,5 +2,4 @@
 
 - **[Estuary Introduction](/estuary/)**
 
-  - Joining an Ensemble todo
-  - Introduction to the Livecoding interface todo
+  - [Command Quick Reference](/estuary/command-quick-reference.md)
