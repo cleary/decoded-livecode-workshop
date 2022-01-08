@@ -81,7 +81,7 @@
 *[add your own (hosted) samples](https://github.com/dktr0/estuary/wiki#adding-sound-files-to-estuarywebdirt-on-the-fly-early-august-2021)*
 
 ```
-!reslist "https://samples.grbt.com.au/resources.json"
+!reslist "https://your.hosted.samples/resources.json"
 ```
 
 ---
