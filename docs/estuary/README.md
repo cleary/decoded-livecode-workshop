@@ -10,7 +10,7 @@ Key features of Estuary include:
   - a growing collection of different interfaces and supported live coding languages
   - collaborative by design, providing support for networked ensembles (in the same room or around the world)
   - free and open source! Check it out on [Github](https://github.com/dktr0/estuary)
-  - for this course, we will be making use of the Estuary instance generously hosted for public use by McMaster University, Canada, at [https://estuary.mcmaster.ca](https://estuary.mcmaster.ca)
+  - for this course, we will be making use of the Estuary instance generously hosted for public use by the Networked Imagination Laboratory (NIL), McMaster University, Canada, at [https://estuary.mcmaster.ca](https://estuary.mcmaster.ca)
 
 ## Requirements:
  - Chrome or Chromium browser
