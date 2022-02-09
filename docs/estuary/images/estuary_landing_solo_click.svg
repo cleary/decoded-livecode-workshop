@@ -54,7 +54,7 @@
      inkscape:window-height="1051"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.1134565"
+     inkscape:zoom="0.78733262"
      inkscape:cx="316.30332"
      inkscape:cy="379"
      inkscape:window-x="48"
@@ -960,11 +960,13 @@ AAAASUVORK5CYII=
 "
      id="image10"
      x="0"
-     y="0" />
+     y="0"
+     inkscape:export-xdpi="81.050003"
+     inkscape:export-ydpi="81.050003" />
   <g
      style="overflow:visible"
      id="g1352"
-     transform="translate(-593.8532,437.74088)">
+     transform="translate(-1033.8532,437.74088)">
     <g
        id="g1167"
        style="clip-rule:evenodd;fill-rule:evenodd">
@@ -1939,7 +1941,9 @@ AAAASUVORK5CYII=
      id="rect1393" />
   <g
      id="g1439"
-     transform="matrix(0.15259198,0.15259198,-0.15259198,0.15259198,202.93765,1018.9548)">
+     transform="matrix(0.15259198,0.15259198,-0.15259198,0.15259198,202.93765,1018.9548)"
+     inkscape:export-xdpi="81.050003"
+     inkscape:export-ydpi="81.050003">
     <g
        transform="matrix(0.50930796,0,0,0.50930796,-2054.2372,-1162.8789)"
        id="g1372">
@@ -2004,7 +2008,9 @@ AAAASUVORK5CYII=
      inkscape:transform-center-x="116.75356" />
   <g
      id="g1460"
-     transform="matrix(0.22574656,0.0444154,-0.0444154,0.22574656,126.72837,477.5813)">
+     transform="matrix(0.22574656,0.0444154,-0.0444154,0.22574656,126.72837,477.5813)"
+     inkscape:export-xdpi="81.050003"
+     inkscape:export-ydpi="81.050003">
     <path
        inkscape:transform-center-x="-233.50711"
        inkscape:connector-curvature="0"
