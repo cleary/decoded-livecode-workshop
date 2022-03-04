@@ -12,7 +12,7 @@ The Worksheets provided cover the visual capabilities of Punctual only, specific
 
  - [1-1. First Shapes](/punctual/1-1.md) (~1h)
  - [1-2. Moving Things Around](/punctual/1-2.md) (~1h)
- - [1-3. Different Output Targets](/punctual/1-3.md) (~1h)
+ - 1-3. Different Output Targets (~1h)
  - 1-4. Jigging With the Numbers (~1h)
 
 **[Copyright](COPYRIGHT.md)**
