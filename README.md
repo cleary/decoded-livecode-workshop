@@ -9,7 +9,7 @@
 
 ### Estuary Introduction
 
- - [WIP](/estuary/README.md)
+ - [About](/estuary/README.md)
 
 ### Livecoded Audio with Minitidal (Tidalcycles)
 
