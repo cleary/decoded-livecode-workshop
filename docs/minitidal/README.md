@@ -15,7 +15,7 @@ The Worksheets provided here are designed specifically for use with Estuary, but
 
 ### Worksheets
 
- - [1-1. First Sounds](/minitidal/1-1.md) (~0.5h)
+ - [1-1. First Sounds](/minitidal/1-1.md) (~1h)
  - [1-2. Mini-notation Sequencing and Patterning Concepts](/minitidal/1-2.md) (~1h)
  - [1-3. Filters and Pitches](/minitidal/1-3.md) (~1h)
  - [1-4. Pattern Mod Func and Randomness](/minitidal/1-4.md) (~1h)
