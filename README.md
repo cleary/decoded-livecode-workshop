@@ -7,6 +7,8 @@
 
 ## Usage
 
+This site is hosted by github-pages at https://decoded.grbt.com.au
+
 This repo is designed for use with [docsifyjs](https://docsify.js.org/)
 
 Installation:
