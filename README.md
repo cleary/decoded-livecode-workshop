@@ -9,9 +9,9 @@
 
 This site is hosted by github-pages at https://decoded.grbt.com.au
 
-This repo is designed for use with [docsifyjs](https://docsify.js.org/)
+This repo is designed for use with [docsifyjs](https://docsify.js.org/). It is still possible to navigate using the github interface, however many internal links will be broken, and will require navigation from the github "browse code" interface, a lot of the convenience links (next/prev lessons, sidebar navigation, etc) are missing also.
 
-Installation:
+Install docsifyjs:
 
 ```
 npm i docsify-cli -g
