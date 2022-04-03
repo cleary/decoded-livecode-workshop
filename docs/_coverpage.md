@@ -10,6 +10,7 @@
 [Estuary](estuary/README.md)
 [Audio (minitidal)](minitidal/README.md)
 [Visual (punctual)](punctual/README.md)
+[DECODED Lite](lite/README.md)
 
 <!-- background image -->
 ![](assets/images/antonio_3_background.png)
