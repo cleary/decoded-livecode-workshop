@@ -1,0 +1,3 @@
+[submodule "docs/lite"]
+	path = docs/lite
+	url = https://github.com/cleary/DECODED_Lite.git
