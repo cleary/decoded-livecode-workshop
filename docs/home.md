@@ -16,6 +16,7 @@ An artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) pl
  - [1-2. Mini-notation Sequencing and Patterning Concepts](/minitidal/1-2.md) (~1h)
  - [1-3. Pitches, Filters and Re-use](/minitidal/1-3.md) (~1h)
  - [1-4. Pattern Mod Func and Randomness](/minitidal/1-4.md) (~1h)
+ - [2-1. Binary Patterns](/minitidal/2-1.md) (~1h)
 
 ### Livecoded Visuals with Punctual
 
